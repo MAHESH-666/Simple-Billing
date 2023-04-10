@@ -1,0 +1,7 @@
+C:\Users\91938\Source\Repos\oops practice\oops practice\bin\Debug\oops practice.exe.config
+C:\Users\91938\Source\Repos\oops practice\oops practice\bin\Debug\oops practice.exe
+C:\Users\91938\Source\Repos\oops practice\oops practice\bin\Debug\oops practice.pdb
+C:\Users\91938\Source\Repos\oops practice\oops practice\obj\Debug\oops practice.csproj.AssemblyReference.cache
+C:\Users\91938\Source\Repos\oops practice\oops practice\obj\Debug\oops practice.csproj.CoreCompileInputs.cache
+C:\Users\91938\Source\Repos\oops practice\oops practice\obj\Debug\oops practice.exe
+C:\Users\91938\Source\Repos\oops practice\oops practice\obj\Debug\oops practice.pdb
